@@ -14,6 +14,7 @@ menu:
 
 links:
   - title: Colabora en nuestro teaming!
+    description: Ayuda desde solo 1€!
     website: https://www.teaming.net/refugiodegatosbatcat
     image: teaming.png
 ---
