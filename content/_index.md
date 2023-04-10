@@ -1,8 +1,5 @@
 ---
-menu:
-    main:
-        name: Home
-        weight: 1
-        params:
-            icon: home
+keywords: 
+    - Al Bassal
+    - Plataforma Al Bassal
 ---

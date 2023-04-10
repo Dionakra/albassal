@@ -22,3 +22,28 @@ url = "https://www.instagram.com/plataformaalbassal/"
 
 [social.params]
 icon = "brand-instagram"
+
+
+[[social]]
+identifier = "ivoox"
+name = "Ivoox"
+url = "https://www.ivoox.com/en/podcast-mi-reino-si-es-este-mundo_sq_f11864620_1.html"
+
+[social.params]
+icon = "brand-ivoox"
+
+[[social]]
+identifier = "spotify"
+name = "Spotify"
+url = "https://open.spotify.com/show/1AXKe3QfQaJ4tvtEYbZcyg"
+
+[social.params]
+icon = "brand-spotify"
+
+[[social]]
+identifier = "z-amazon-music"
+name = "zAmazon Music"
+url = "https://music.amazon.es/podcasts/09220d38-8264-48c6-94d5-1ca311b4d04c/mi-reino-s%C3%AD-es-de-este-mundo"
+
+[social.params]
+icon = "brand-amazon-music"

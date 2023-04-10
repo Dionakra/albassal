@@ -10,7 +10,7 @@
       ]
     },
     {
-      "site": "albasaal",
+      "site": "albassal",
       "public": "public",
       "ignore": [
         "firebase.json",

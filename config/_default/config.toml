@@ -1,8 +1,8 @@
 # Change baseurl before deploy
-baseurl = "https://albasaal.web.app/"
+baseurl = "https://albassal.web.app/"
 languageCode = "es-es"
 paginate = 5
-title = "Plataforma Al Basaal"
+title = "Plataforma Al Bassal"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -14,3 +14,5 @@ hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
+
+googleAnalytics = "G-BR4HQ3365T"
