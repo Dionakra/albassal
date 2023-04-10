@@ -12,7 +12,6 @@ keywords:
     - Andalucia
     - Inmatriculaciones Iglesia
     - Al Bassal
-
 links:
   - title: Plataforma en defensa del Patrimonio Andaluz
     website: https://defensapatrimonioandaluz.org/
