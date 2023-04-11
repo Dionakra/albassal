@@ -16,10 +16,24 @@ keywords:
 links:
   - title: Plataforma en defensa del Patrimonio Andaluz
     website: https://defensapatrimonioandaluz.org/
+    description: " "
     image: https://defensapatrimonioandaluz.org/wp-content/uploads/2022/10/cropped-logo-PDPA.png
   - title: Coordinadora estatal para la recuperacion del Patrimonio Inmatriculado por la Iglesia
     website: https://www.recuperando.es/
+    description: " "
     image: https://www.recuperando.es/wp-content/uploads/2021/09/Recuperando-cabecera-e1631871607321.jpg.webp
+  - title: Informe del Ministerio de la Presidencia
+    description: Listado de bienes inmatriculados
+    website: https://issuu.com/prisarevistas/docs/1informe_cumplimiento_-_documentacio_n_registrada_
+    image: informe.jpeg
+  - title: Primera condena a España por privilegiar a la Iglesia
+    description: Multa de 615.000 €
+    website: https://www.elespanol.com/espana/tribunales/20161220/179733079_0.html
+    image: condena.jpeg
+  - title: Concentración frente a la sede de la DGA
+    description: " "
+    website: https://arainfo.org/concentracion-frente-a-la-sede-de-la-dga-para-exigir-que-se-cumplan-los-compromisos-en-materia-de-inmatriculaciones/
+    image: concentracion.jpeg
 ---
 
 # Un negocio monumental
@@ -40,3 +54,19 @@ La Plataforma Al Bassal se integra en la [Plataforma en Defensa del Patrimonio A
 ### Pildoras informativas
 * [¿Qué es una inmatriculacion?]({{<ref "/que-es-una-inmatriculacion">}})
 * [Normativa en paises cercanos]({{<ref "/normativa-paises-cercanos">}})
+
+![La Ermita de San Isidro, en Tejada la Nueva , fue inmatriculada a pesar de que se encuentra sobre vía pecuaria de titularidad pública.](ermita-san-isidro.jpeg)
+
+## Inmatriculaciones practicadas en el Campo de Tejada sin ningun titulo que lo otorgue
+
+![Escacena del Campo](inmatriculaciones-escacena.png)
+
+![Paterna del Campo](inmatriculaciones-paterna.png)
+
+![Manzanilla](inmatriculaciones-manzanilla.png)
+
+![Berrocal](inmatriculaciones-berrocal.png)
+
+![Chucena](inmatriculaciones-chucena.png)
+
+![Castilleja del Campo](inmatriculaciones-castilleja.png)
