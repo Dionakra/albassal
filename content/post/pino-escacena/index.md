@@ -4,6 +4,7 @@ description: Araucaria coronando el edificio donde se ubicaba.
 slug: el-pino-de-escacena
 image: cover.jpeg
 toc: false
+date: 2023-04-04
 categories:
     - Medioambiente
 keywords: 

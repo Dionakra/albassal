@@ -3,6 +3,7 @@ title: Chichina
 slug: chichina
 image: cover.jpeg
 toc: true
+date: 2023-04-05
 categories:
     - Patrimonio Cultural
 keywords: 

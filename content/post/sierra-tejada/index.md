@@ -3,6 +3,7 @@ title: La Sierra de Tejada
 description: La Sierra de Tejada es la nomenclatura utilizada para las primeras estribaciones de la sierra de Huelva, afamada por escenarios naturales maravillosos en Aracena y Picos de Aroche, Fuenteheridos, Zufre o Castaño del Robledo. Está enmarcada al norte con Minas de Riotinto y El Castillo de las Guardas y por los ríos Tinto y Agrio, a izquierda y derecha. La componen varios términos municipales de los que sólo la población de Berrocal se encuentra inmersa en ella.
 slug: la-sierra-de-tejada
 image: cover.jpeg
+date: 2023-04-03
 toc: false
 categories:
     - Medioambiente

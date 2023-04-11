@@ -30,25 +30,6 @@ enabled = false
 default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
-[[widgets.homepage]]
-type = "search"
-
-
-[widgets.homepage.params]
-limit = 5
-
-[[widgets.homepage]]
-type = "categories"
-
-[widgets.homepage.params]
-limit = 10
-
-[[widgets.homepage]]
-type = "tag-cloud"
-
-[widgets.homepage.params]
-limit = 10
-
 [[widgets.page]]
 type = "toc"
 
@@ -57,9 +38,9 @@ site = ""
 card = "summary_large_image"
 
 [defaultImage.opengraph]
-enabled = false
-local = false
-src = ""
+enabled = true
+local = true
+src = "img/logo.jpg"
 
 [colorScheme]
 toggle = true

@@ -3,6 +3,7 @@ title: Inmatriculaciones Iglesia Catolica
 description: Iglesia del Divino Salvador de Escacena del Campo inmatriculada por un importe de 30€.
 slug: inmatriculaciones
 image: cover.jpeg
+date: 2023-04-10
 toc: false
 categories:
     - Patrimonio Cultural

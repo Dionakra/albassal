@@ -11,6 +11,7 @@
 identifier = "facebook"
 name = "Facebook"
 url = "https://www.facebook.com/profile.php?id=100087432529233"
+weight = 10
 
 [social.params]
 icon = "brand-facebook"
@@ -19,6 +20,7 @@ icon = "brand-facebook"
 identifier = "instagram"
 name = "Instagram"
 url = "https://www.instagram.com/plataformaalbassal/"
+weight = 20
 
 [social.params]
 icon = "brand-instagram"
@@ -26,24 +28,36 @@ icon = "brand-instagram"
 
 [[social]]
 identifier = "ivoox"
-name = "Ivoox"
+name = "Podcast - Ivoox"
 url = "https://www.ivoox.com/en/podcast-mi-reino-si-es-este-mundo_sq_f11864620_1.html"
+weight = 30
 
 [social.params]
 icon = "brand-ivoox"
 
 [[social]]
 identifier = "spotify"
-name = "Spotify"
+name = "Podcast - Spotify"
 url = "https://open.spotify.com/show/1AXKe3QfQaJ4tvtEYbZcyg"
+weight = 40
 
 [social.params]
 icon = "brand-spotify"
 
 [[social]]
 identifier = "z-amazon-music"
-name = "zAmazon Music"
+name = "Podcast - Amazon Music"
 url = "https://music.amazon.es/podcasts/09220d38-8264-48c6-94d5-1ca311b4d04c/mi-reino-s%C3%AD-es-de-este-mundo"
+weight = 50
 
 [social.params]
 icon = "brand-amazon-music"
+
+[[social]]
+identifier = "gmail"
+name = "Correo Electronico"
+url = "mailto:plataformaalbassal@gmail.com"
+weight = 60
+
+[social.params]
+icon = "brand-gmail"
