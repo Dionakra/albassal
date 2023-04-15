@@ -1,6 +1,6 @@
 ---
 title: El pino de Escacena
-description: Araucaria coronando el edificio donde se ubicaba.
+description: Plataforma Al Bassal te cuenta la polemica alrededor del "pino del convento", talado para sorpresa de los escaceneros.
 slug: el-pino-de-escacena
 image: cover.jpeg
 toc: false
@@ -15,6 +15,8 @@ keywords:
     - Al Bassal
     - Escacena del Campo
 ---
+
+_En la imagen: Araucaria coronando el edificio donde se ubicaba._
 
 Desde hace unos meses, el "pino del convento" como era conocida la araucaria del casco histórico de Escacena es uno de los temas más comentados entre los escaceneros, ya que fue talado.
 

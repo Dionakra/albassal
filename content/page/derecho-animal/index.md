@@ -3,7 +3,7 @@ title: Derecho animal
 image: ovejas.jpg
 menu: 
     main:
-        name: Derecho Animal
+        name: Derecho animal
         weight: 30
         params:
             icon: pawprint

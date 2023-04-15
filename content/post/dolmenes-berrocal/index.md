@@ -2,8 +2,9 @@
 title: La Dólmenes de Berrocal
 slug: dolmenes-de-berrocal
 image: cover.jpeg
+description: Plataforma Al Bassal te cuenta que en el término de Berrocal existe un valioso patrimonio megalítico en lo que a complejos dolménicos se refiere, como el del Puerto de los Huertos, el Casullo o el de Mascotejo, posteriores al proceso de expansión y monumentalización emprendido por los primeros pobladores de la zona.
 date: 2023-04-06
-toc: false
+toc: true
 categories:
     - Patrimonio Cultural
 keywords: 
@@ -87,3 +88,12 @@ La estructura megalítica se define como una galería trapezoidal de 6,30 metros
 * [Prospección arqueológica de los dólmenes de Berrocal de Huelva (II)](https://www.juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/27114/1/AAA_2005_496_linarescatelajoseantonio_dolemensdelberrocal_huelva_borrador.pdf)
 * [Puesta en valor de los Dólmenes de Berrocal I, Huelva : Excavaciones arqueológicas y obras de consolidación](https://www.juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/3576/1/AAA_2006_223_linarescatela_dolmenesberrocal_huelva_borrador.pdf)
 * [Puesta en valor de los Dólmenes de Berrocal II, Huelva: Prospecciones arqueológicas de superficie y análisis territorial de los monumentos megalíticos](https://www.juntadeandalucia.es/cultura/tabula/bitstream/20.500.11947/3585/1/AAA_2006_232_linarescatela_dolmenesberrocalII_huelva_borrador.pdf)
+
+## Localizacion
+Camino del Moro, Berrocal.
+
+Coordenadas
+* **Hornueco** lat: 37.593617, lon: -6.514897 
+* **Mascotejo** lat: 37.573390, lon: -6.555226 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d12645.370599569615!2d-6.514301!3d37.594094!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDM1JzM4LjciTiA2wrAzMCc1MS41Ilc!5e0!3m2!1ses!2sus!4v1681575994737!5m2!1ses!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

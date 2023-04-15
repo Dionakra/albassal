@@ -2,7 +2,7 @@
 baseurl = "https://albassal.web.app/"
 languageCode = "es-es"
 paginate = 15
-title = "Plataforma Al Bassal - En defensa del patrimonio cultural"
+title = "Plataforma Al Bassal"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -16,3 +16,6 @@ hasCJKLanguage = false
 disqusShortname = "hugo-theme-stack"
 
 googleAnalytics = "G-BR4HQ3365T"
+
+[markup.goldmark.renderer]
+    unsafe = true

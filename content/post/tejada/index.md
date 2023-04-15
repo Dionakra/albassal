@@ -2,6 +2,7 @@
 title: Tejada
 slug: tejada
 image: cover.jpeg
+description: Plataforma Al Bassal te cuenta que las ruinas de Tejada "la nueva"  (Escacena del Campo / Paterna) se encuentran ubicadas en Tierra Llana en pleno Campo de Tejada, concretamente en una zona en la que abundan los suelos muy fértiles y en el que este recinto debió destacar como punto estratégico de comunicación, al estar ubicado en un contexto territorial de paso de vías históricas. El recinto fortificado presenta una fábrica de muros de tapial sobre un zócalo de mampostería, y con 14 torres que flanqueaban el perímetro murario, de las cuales sólo se conservan hoy día dos de planta cuadrangular con sillares en la base y en las esquinas y con paramentos de tapial.
 date: 2023-04-08
 toc: false
 categories:
@@ -24,8 +25,6 @@ keywords:
     - moriscos
     - termas romanas
 ---
-Las ruinas de Tejada "la nueva"  (Escacena del Campo / Paterna) se encuentran ubicadas en Tierra Llana en pleno Campo de Tejada, concretamente en una zona en la que abundan los suelos muy fértiles y en el que este recinto debió destacar como punto estratégico de comunicación, al estar ubicado en un contexto territorial de paso de vías históricas. El recinto fortificado presenta una fábrica de muros de tapial sobre un zócalo de mampostería, y con 14 torres que flanqueaban el perímetro murario, de las cuales sólo se conservan hoy día dos de planta cuadrangular con sillares en la base y en las esquinas y con paramentos de tapial.
-
 ![](tejada_1.jpeg) ![](tejada_2.jpeg) ![](tejada_3.jpeg) ![](tejada_4.jpeg) ![](tejada_5.jpeg) 
 
 ![](tejada_6.jpeg) ![](tejada_7.jpeg) ![](tejada_8.jpeg) ![](tejada_9.jpeg) ![](tejada_10.jpeg) 
@@ -91,3 +90,10 @@ Una última observación es que, al sur del cerro antes aludido, pudimos recorre
 ![](mapa.jpeg)
 
 [Ver _Las Monedas de Ituci_]({{<ref "/monedas-ituci">}})
+
+
+## Localizacion
+**Desde Escacena:** Tome la salida en dirección Aznalcóllar. Siga HU-6110 durante 5 km. Gire a la izquierda hacia la Vereda de Huévar.
+**Desde Aznalcóllar:** Tome la salida en dirección Escacena. Siga SE-4400 durante 10 km. Gire a la derecha hacia la Vereda de Huévar. 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d6335.05156656794!2d-6.366163!3d37.448306!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDI2JzUyLjIiTiA2wrAyMSc1Ny43Ilc!5e0!3m2!1ses!2sus!4v1681576154075!5m2!1ses!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

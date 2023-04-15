@@ -2,6 +2,7 @@
 title: Alpizar
 slug: alpizar
 image: cover.jpeg
+description: Plataforma Al Bassal te cuenta que, traducido como el río de la estrella (alp-izar), El Castillo del Alpízar es antigua fortaleza que se encuentra cerca de la aldea de Tujena (Tulius) y es visible desde todo el campo de Tejada, junto al llamado Acebuchal del Alpízar (paraje incluido en la lista de “Lugares de Interés Comunitario”), un entorno típico de nuestra campiña, rodeado de campos de cultivo de cereal, girasol y olivos.
 date: 2023-04-07
 toc: false
 categories:
@@ -22,8 +23,6 @@ keywords:
     - almiçar
 ---
 # AL-MIZAR / Alpizar / LAPIÇAR
-Traducido como el río de la estrella (alp-izar), El Castillo del Alpízar es antigua fortaleza que se encuentra cerca de la aldea de Tujena (Tulius) y es visible desde todo el campo de Tejada, junto al llamado Acebuchal del Alpízar (paraje incluido en la lista de “Lugares de Interés Comunitario”), un entorno típico de nuestra campiña, rodeado de campos de cultivo de cereal, girasol y olivos.
-
 El castillo es una edificación relativamente pequeña, de planta trapezoidal, patio central y un torreón almenado en cada esquina, a los que se accede a través del camino de ronda perimetral, a excepción del lienzo oeste, que carece de él. Cada uno de los torreones es de distinto tamaño. Las almenas, que son escalonadas, no parecen, dado su escaso tamaño, ser las originales.
 
 Su fachada principal se orienta hacia el sur, y en ella se abre una portada almohade, probablemente la original, del siglo XI: arco de herradura apuntado, del que sobresalen, de manera alterna trece dovelas. Sobre esta puerta aún permanecen algunas almenas de igual factura a las de las torres. A través de ella se accede directamente al que fue patio de armas del castillo. En su fachada este se abre otro acceso, también en arco de herradura apuntado, pero más pequeño y tosco que el anterior. Todos sus muros exteriores son de tapial y actualmente, como no podía ser de otra manera pues es un cortijo, están encalados. En su entorno más inmediato quedan vestigios de lo que debió ser una barrera.
@@ -40,3 +39,8 @@ Actualmente se encuentra bajo la protección de la Declaración genérica del De
 
 ## Documentos
 * [Al-pisar, Memoria del proyecto de Rehabilitación del Castillo-Cortijo de Alpízar, Huelva](https://idus.us.es/handle/11441/37507)
+
+## Localizacion
+Desde Sevilla, autovía A-49 dirección Huelva-Portugal. Salida en, aproximadamente, el kilómetro 34, en Chucena, y seguir por la A-481; tomar la A-472 en dirección a Manzanilla y pocos kilómetro después coger a la derecha la HU-6111 hacia Escacena del Campo y Paterna del Campo. De Paterna seguir en dirección a Tujena.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d25339.905807777413!2d-6.430462!3d37.449193!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDI2JzU4LjYiTiA2wrAyNSc0OS42Ilc!5e0!3m2!1ses!2sus!4v1681576082289!5m2!1ses!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
