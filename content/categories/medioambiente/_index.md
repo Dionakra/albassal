@@ -9,6 +9,6 @@ menu:
             icon: tree
 # Badge style
 style:
-    background: "#2a9d8f"
-    color: "#fff"
+    background: "#2ECC71"
+    color: "#000000"
 ---

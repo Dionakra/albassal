@@ -10,6 +10,6 @@ menu:
 
 # Badge style
 style:
-    background: "#2596be"
+    background: "#646464"
     color: "#fff"
 ---
