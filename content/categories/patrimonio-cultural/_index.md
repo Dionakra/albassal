@@ -1,9 +1,9 @@
 ---
-title: "Patrimonio cultural"
+title: "Patrimonio Cultural"
 slug: "patrimonio-cultural"
 menu: 
     main:
-        name: Patrimonio cultural
+        name: Patrimonio Cultural
         weight: 10
         params:
             icon: museum
