@@ -1,8 +1,5 @@
 ---
-title: Plataforma Al Bassal
-description: >
-    Su nombre lo recibe de la comarca del Campo de Tejada, denominada al iqlim al bassal durante su periodo histórico de mayor entidad. En algarabía o árabe andalusí significa distrito o comarca del cebollar, motivo principal de su emblema o logotipo que lo enmarca la conocida como "estrella tartésica". Se trata de una estrella de ocho puntas, símbolo inconsciente de la memoria histórica de nuestros pueblos que se viene representando a lo largo de la 
-    historia con independencia de la cultura que adoptáramos. La representaron los tartessos como símbolo del dios Sol personificado en Baal y pasó a las primeras monedas con los turdetanos. La continuaron los romanos en nuestra metrópoli ITVCI como decoración en paredes y mosaicos, aunque es llevado a su máximo exponente cuando adoptamos la fe islámica. Gracias a los mudéjares el motivo se siguió representando en los siglos posteriores.
+title: Presentación - Plataforma Al Bassal
 slug: plataforma-al-bassal
 date: 2023-04-11
 image: cover.png
@@ -94,6 +91,7 @@ keywords:
     - BETILO DE TEJADA LA VIEJA
     - TEJADA LA VIEJA VISITA
 ---
+Su nombre lo recibe de la comarca del Campo de Tejada, denominada al iqlim al bassal durante su periodo histórico de mayor entidad. En algarabía o árabe andalusí significa distrito o comarca del cebollar, motivo principal de su emblema o logotipo que lo enmarca la conocida como "estrella tartésica". Se trata de una estrella de ocho puntas, símbolo inconsciente de la memoria histórica de nuestros pueblos que se viene representando a lo largo de la historia con independencia de la cultura que adoptáramos. La representaron los tartessos como símbolo del dios Sol personificado en Baal y pasó a las primeras monedas con los turdetanos. La continuaron los romanos en nuestra metrópoli ITVCI como decoración en paredes y mosaicos, aunque es llevado a su máximo exponente cuando adoptamos la fe islámica. Gracias a los mudéjares el motivo se siguió representando en los siglos posteriores.
 
 La defensa del patrimonio que lleva a cabo la Plataforma en nuestros pueblos es una defensa activa; tanto del patrimonio histórico de los agravios actuales, como el patrimonio natural y animal de las agresiones de nuestro modo de vida.
 

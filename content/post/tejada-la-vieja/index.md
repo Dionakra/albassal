@@ -3,7 +3,7 @@ title: Tejada la Vieja
 slug: tejada-la-vieja
 image: cover.jpeg
 toc: true
-description: Plataforma Al Bassal te invita a descubrir Tejada la Vieja, un yacimiento arqueológico tartésico-turdetano cuya fundación se data en el S. VIII a.n.e. y se justifica ante la cercanía a las explotaciones mineras de Aználcollar y Río Tinto. Fue contemporánea a la del Castillo de Doña Blanca (Cádiz), la Ilipla tartésica (Huelva) y del complejo religioso del Carambolo (Camas), y precedente de otras ciudades, más al interior, en la Vega del Guadiana como El Turuñuelo de Guareña y Cancho Roano.
+description: Yacimiento arqueológico tartésico-turdetano cuya fundación se data en el S. VIII a.n.e. y se justifica ante la cercanía a las explotaciones mineras de Aználcollar y Río Tinto. Fue contemporánea a la del Castillo de Doña Blanca (Cádiz), la Ilipla tartésica (Huelva) y del complejo religioso del Carambolo (Camas), y precedente de otras ciudades, más al interior, en la Vega del Guadiana como El Turuñuelo de Guareña y Cancho Roano.
 date: 2023-04-09
 categories:
     - Patrimonio Cultural
@@ -37,6 +37,22 @@ links:
     website: https://www.centrodeestudiosandaluces.es/publicaciones/descargar/745/documento/1579/AH_51.pdf
     image: revista.jpeg
 ---
+## Localizacion
+<p style="color:red"><strong>NO SEGUIR GOOGLE MAPS</strong></p>
+
+* **Desde Escacena:** Tome la salida en dirección Aznalcóllar. Siga HU-6110 durante 8 km. Gire a la izquierda hacia  la Cañada Real del Arrebol hasta el final del camino.
+* **Desde Aznalcóllar:** Tome la salida en dirección Escacena. Siga SE-4400 durante 7 km. Gire a la derecha hacia la Cañada Real del Arrebol. 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d50646.41557104604!2d-6.34793!3d37.49846!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDI5JzUwLjMiTiA2wrAyMSczMC42Ilc!5e0!3m2!1ses!2sus!4v1681578553985!5m2!1ses!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Visita virtual
+![Descarga la App de Tejada la Vieja](app.jpeg)
+
+Recorre el yacimiento con las explicaciones de la arqueóloga Clara Toscano y adéntrate en el legendario reino de Tartessos. Recorre las calles que pisaron sus habitantes en el siglo IV a.n.e. Contempla las murallas que construyeron para proteger sus riquezas minerales. El legado que la civilización tartésica nos dejó, te espera.
+
+* [Descarga para Android](https://play.google.com/store/apps/details?id=david.tejadalavieja&pli=1)
+* [Descarga para iOS](https://apps.apple.com/us/app/tejada-la-vieja/id1619742057)
+
 ## Antecedente de Tejada
 ### Poblado de Peñalosa
 Las investigadoras Carmen García y Pilar Rufete definieron a Tejada la Vieja como un núcleo aglutinador de pequeños poblados que dominaban la antigua campiña, cosa que constató nuestro vecino apodado "el meri" con un hallazgo en el Cortijo de Peñalosa-
@@ -53,7 +69,7 @@ Se tenía constancia que dicha técnica fue aportada por la colonización fenici
 
 ![](vasija.jpeg)
 
-### El Yacimiento
+## El Yacimiento
 Tejada la Vieja es un yacimiento arqueológico tartésico-turdetano cuya fundación se data en el S. VIII a.n.e. y se justifica ante la cercanía a las explotaciones mineras de Aználcollar y Río Tinto. Fue contemporánea a la del [Castillo de Doña Blanca (Cádiz)](https://es.wikipedia.org/wiki/Castillo_de_Do%C3%B1a_Blanca), la Ilipla tartésica (Huelva) y del complejo religioso del Carambolo (Camas), y precedente de otras ciudades, más al interior, en la Vega del Guadiana como [El Turuñuelo](https://es.wikipedia.org/wiki/El_Turu%C3%B1uelo) de Guareña y [Cancho Roano](https://es.wikipedia.org/wiki/Cancho_Roano).
 
 D. Antonio Blanco Freijeiro fue el primero que localizó el yacimiento basándose en la tradición oral y escrita ( Silverio Escobar en su [Noticia histórica de la Villa de Escacena](https://dialnet.unirioja.es/servlet/articulo?codigo=2478023) publicado en 1910 y [Juan Aurioles y Galbán](https://dialnet.unirioja.es/descarga/articulo/70319.pdf), párroco de Paterna del Campo, en respuesta al diccionario geográfico de Tomás López a fines del siglo XVIII). Junto a  [Beno Rothemberg](https://www-tau-ac-il.translate.goog/~ebenyose/CTV/rothenberg/index.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sc), estudiaban la arqueo-metalurgia en la provincia de Huelva, pero dada la importancia de las ruinas visibles, excavó dentro del recinto. Su intervención se centró en la muralla sacándola a la luz y practicando técnica invasiva  consistente en cortarla para verificar la forma de construcción, quedándose a la vista dicho corte hasta su reciente cierre evitando una interpretación errónea. 
@@ -108,31 +124,15 @@ La lectura de la leyenda púnica de las monedas halladas en Tejada "la nueva" es
 
 ![](moneda.jpeg)
 
-
-
 ## Documentacion
-* El suroeste hispano en la Turdetania atlántica I
-* El suroeste hispano en la Turdetania atlántica II
-* Murallas fenicias para Tartessos
-* Arqueología del cielo. Orientaciones astronómicas en edificios protohistóricos del sur de la península Ibérica
-* Arquitectura y urbanismo de Tejada
-* Antecedentes históricos del Campo de Tejada
-* El yacimiento y su excavación
-* Campañas de excavación
-* Indígenas y fenicios en Huelva
-* Aspectos de la minería y la metalurgia en la protohistoria de Huelva
-* Peñalosa (Escacena del Campo, Huelva)
-
-## Visita virtual
-Recorre el yacimiento con las explicaciones de la arqueóloga Clara Toscano y adéntrate en el legendario reino de Tartessos. Recorre las calles que pisaron sus habitantes en el siglo IV a.n.e. Contempla las murallas que construyeron para proteger sus riquezas minerales. El legado que la civilización tartésica nos dejó, te espera.
-
-* [Descarga para Android](https://play.google.com/store/apps/details?id=david.tejadalavieja&pli=1)
-* [Descarga para iOS](https://apps.apple.com/us/app/tejada-la-vieja/id1619742057)
-
-
-## Localizacion
-**NO SEGUIR GOOGLE MAPS**
-* **Desde Escacena:** Tome la salida en dirección Aznalcóllar. Siga HU-6110 durante 8 km. Gire a la izquierda hacia  la Cañada Real del Arrebol hasta el final del camino.
-* **Desde Aznalcóllar:** Tome la salida en dirección Escacena. Siga SE-4400 durante 7 km. Gire a la derecha hacia la Cañada Real del Arrebol. 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d50646.41557104604!2d-6.34793!3d37.49846!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDI5JzUwLjMiTiA2wrAyMSczMC42Ilc!5e0!3m2!1ses!2sus!4v1681578553985!5m2!1ses!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+* [El suroeste hispano en la Turdetania atlántica I](http://rabida.uhu.es/dspace/bitstream/handle/10272/12522/El_soroeste_hispano_I.pdf?sequence=2)
+* [El suroeste hispano en la Turdetania atlántica II](http://rabida.uhu.es/dspace/bitstream/handle/10272/12522/El_suroeste_hispano_II.pdf?sequence=4)
+* [Murallas fenicias para Tartessos](http://institucional.us.es/revistas/spal/11/art_4.pdf)
+* [Arqueología del cielo. Orientaciones astronómicas en edificios protohistóricos del sur de la península Ibérica](https://www.researchgate.net/publication/275938738_Arqueologia_del_cielo_Orientaciones_astronomicas_en_edificios_protohistoricos_del_sur_de_la_Peninsula_Iberica/fulltext/5ac1be4f45851584fa75ab5a/Arqueologia-del-cielo-Orientaciones-astronomicas-en-edificios-protohistoricos-del-sur-de-la-Peninsula-Iberica.pdf)
+* [Arquitectura y urbanismo de Tejada](https://dialnet.unirioja.es/descarga/articulo/70323.pdf)
+* [Antecedentes históricos del Campo de Tejada](https://dialnet.unirioja.es/descarga/articulo/70325.pdf)
+* [El yacimiento y su excavación](https://dialnet.unirioja.es/descarga/articulo/70320.pdf)
+* [Campañas de excavación](https://tejadalavieja.com/intervenciones-arqueologicas/)
+* [Indígenas y fenicios en Huelva](https://dialnet.unirioja.es/servlet/articulo?codigo=2735655)
+* [Aspectos de la minería y la metalurgia en la protohistoria de Huelva](https://dialnet.unirioja.es/descarga/articulo/2687038.pdf)
+* [Peñalosa (Escacena del Campo, Huelva)](https://dialnet.unirioja.es/descarga/articulo/70377.pdf)

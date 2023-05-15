@@ -1,6 +1,6 @@
 ---
 title: El pino de Escacena
-description: Plataforma Al Bassal te cuenta la polemica alrededor del "pino del convento", talado para sorpresa de los escaceneros.
+description: Polemica alrededor del "pino del convento", talado para sorpresa de los escaceneros.
 slug: el-pino-de-escacena
 image: cover.jpeg
 toc: false
@@ -25,5 +25,3 @@ Desde que se conocieron las intenciones del propietario del edificio que circund
 En la mañana del 4 de Octubre de 2022, alrededor del antiguo Convento de Hermanas de la Cruz, aparecieron operarios y grúa que ejecutaron la tala del pino. 
 
 Ese mismo día el ayuntamiento realiza un comunicado en el que se indica que "es decisión y responsabilidad de la propiedad privada el hecho de llevar a cabo la tala " aspecto con el que no estamos de acuerdo desde la Plataforma Al Bassal porque la catalogación como Árbol Singular lo hubiese impedido.
-
-![Campaña de activismo de Itvci Verde](activismo.jpeg)

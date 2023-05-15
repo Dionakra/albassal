@@ -3,7 +3,7 @@ title: Tejada
 slug: tejada
 image: cover.jpeg
 toc: true
-description: Plataforma Al Bassal te cuenta que las ruinas de Tejada "la nueva"  (Escacena del Campo / Paterna) se encuentran ubicadas en Tierra Llana en pleno Campo de Tejada, concretamente en una zona en la que abundan los suelos muy fértiles y en el que este recinto debió destacar como punto estratégico de comunicación, al estar ubicado en un contexto territorial de paso de vías históricas. El recinto fortificado presenta una fábrica de muros de tapial sobre un zócalo de mampostería, y con 14 torres que flanqueaban el perímetro murario, de las cuales sólo se conservan hoy día dos de planta cuadrangular con sillares en la base y en las esquinas y con paramentos de tapial.
+description: Las ruinas de Tejada "la nueva"  (Escacena del Campo / Paterna) se encuentran ubicadas en Tierra Llana en pleno Campo de Tejada, concretamente en una zona en la que abundan los suelos muy fértiles y en el que este recinto debió destacar como punto estratégico de comunicación, al estar ubicado en un contexto territorial de paso de vías históricas. El recinto fortificado presenta una fábrica de muros de tapial sobre un zócalo de mampostería, y con 14 torres que flanqueaban el perímetro murario, de las cuales sólo se conservan hoy día dos de planta cuadrangular con sillares en la base y en las esquinas y con paramentos de tapial.
 date: 2023-04-08
 
 categories:
@@ -26,6 +26,8 @@ keywords:
     - moriscos
     - termas romanas
 ---
+
+
 ![](tejada_1.jpeg) ![](tejada_2.jpeg) ![](tejada_3.jpeg) ![](tejada_4.jpeg) ![](tejada_5.jpeg) 
 
 ![](tejada_6.jpeg) ![](tejada_7.jpeg) ![](tejada_8.jpeg) ![](tejada_9.jpeg) ![](tejada_10.jpeg) 
@@ -40,9 +42,15 @@ Investigaciones recientes (VIDAL TERUEL. 1996: CAMPOS CARRASCO VIDAL TERUEL, e.p
 
 Más tarde aparece nombrada con asiduidad en los itinerarios romanos y medievales: en el primer caso (Itinerario de Antonino. 432) bajo el topónimo TUCCI, en el segundo (Anónimo de Rávena. 417) con el nombre de TUSCI. 
 
-Este mantenimiento constante de la población a través del tiempo no hubiera sido posible de no haber dispuesto de unas condiciones naturales y económicas favorables. De este modo las condiciones físico-naturales y la orientación económica de Tejada la Nueva hubieron de tener, a nuestro juicio una característica principal: la estabilidad de un medio físico favorable y un clima benévolo. Ello se tradujo, en el aspecto económico, en la disponibilidad de un suelo de una altísima calidad agrológica y notablemente fértil a lo largo de su historia. 
+Este mantenimiento constante de la población a través del tiempo no hubiera sido posible de no haber dispuesto de unas condiciones naturales y económicas favorables. De este modo las condiciones físico-naturales y la orientación económica de Tejada la Nueva hubieron de tener, a nuestro juicio una característica principal: la estabilidad de un medio físico favorable y un clima benévolo. Ello se tradujo, en el aspecto económico, en la disponibilidad de un suelo de una altísima calidad agrológica y notablemente fértil a lo largo de su historia.
 
-## Ituci Romana
+## Localizacion
+* **Desde Escacena:** Tome la salida en dirección Aznalcóllar. Siga HU-6110 durante 5 km. Gire a la izquierda hacia la Vereda de Huévar.
+* **Desde Aznalcóllar:** Tome la salida en dirección Escacena. Siga SE-4400 durante 10 km. Gire a la derecha hacia la Vereda de Huévar. 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d6335.05156656794!2d-6.366163!3d37.448306!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDI2JzUyLjIiTiA2wrAyMSc1Ny43Ilc!5e0!3m2!1ses!2sus!4v1681576154075!5m2!1ses!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Itvci Romana
 La importancia de la agricultura como fuente principal de la economía de la ciudad y de todo el Campo de Tejada y en general de la Bética se puede rastrear a través de otro hecho: la presencia de villae. Éstas podían presentar distintas cara que en esencia definían dos tipos: la villa de lujo, lugar de retiro y descanso para los grandes propietarios: y la villa rústica, entendida como centro de explotación agrícola. Las villas béticas se ubicaban con frecuencia junto a tina red fluvial o en la línea de la costa. Así, estos lugares se muestran no sólo como centros agrícolas, sino también comerciales. Afinando el margen espacial y pasando con ello al análisis del segundo tipo de fuentes, las arqueológicas, podemos observar como en el Campo de Tejada se cumplen dichas características. Gracias a los trabajos de prospección y excavación llevados a cabo por Silliéres (1981) en el término municipal de la Palma del Condado se puso de manifiesto la existencia de nueve villae romanas situadas en torno a una ruta de gran importancia comercial y agrícola como la Vereda de la Carne. En el caso concreto de Tejada la aparición de una villa situada a unos 800 mts al NW (BEDIA, 1987) de la ciudad y que en principio podría interpretarse como parte de un cordón de villae que rodeasen la ciudad, estaría confirmando la existencia de una actividad agrícola de cierta importancia, que permitió su mantenimiento durante un período determinado.
 
 Junto a esto hay otro hecho del que podemos deducir la prosperidad que caracterizó agrícolamente a la zona y éste no es otro que el de la adscripción de las tierras del Campo de Tejada. Su consideración como "_tierras de realengo_" nos está hablando de la gran importancia que hubieron de alcanzar las mismas, llegando al extremo de quedar incluidas como parte del patrimonio real, deseo expreso de Alfonso X, y sujetas a sus leyes y explotadas directamente por él y su familia. Respecto a la producción, si hasta ahora el olivar era el rey indiscutible en los cultivos campiñeses, será durante la Baja Edad Media cuando el predominio del olivar en todo el área de Tejada ceda terreno en favor de la producción vinícola, como se deduce del hecho del aumento del número de propietarios de tierras vinícolas respecto a los de olivar (que se centraban en los monopolios de los grandes propietarios sevillanos y geográficamente empezaban a ser cultivos marginales en el contexto del Campo de Tejada y de todo el Aljarafe) (BORRERO FERNÁNDEZ, 1983, 1986). La importancia creciente del cultivo de la vid se verá acompañado en este proceso por el cereal. Junto a la vid, el cereal será el otro punto de apoyo de las labores agrícolas del campo de Tejada durante la Baja Edad Media y el tránsito a la Modernidad. Las cifras que apoyan la orientación mayoritariamente agrícola de la zona quedan recogidas en los padrones de población de fines del siglo XV. En ellos se puede observar como más del 80% de la población está adscrita al sector agrario. Nos encontramos pues, con una población mayoritariamente campesina y por lo tanto con una economía basada casi de forma exclusiva en las actividades agrícolas.
@@ -51,9 +59,29 @@ La dedicación agrícola se vio acompañada por una actividad ganadera que, si n
 
 Para completar este breve recorrido por la economía de la ciudad, vamos a referir una actividad que tuvo gran importancia durante la antigüedad: la metalurgia. Nuestras opiniones al respecto son fruto del análisis de varias muestras de escorias minerales halladas en el yacimiento durante una prospección arqueológica superficial llevada a cabo por el Grupo de Investigación 5272 del Plan Andaluz de Investigación (P.A.I), en la que además se obtuvieron evidencias materiales (cerámicas y constructivas) que han servido para reconstruir en buena medida el proceso evolutivo de esta ciudad (VIDAL TERUEL, 1996) . Los restos de escoria fueron documentados en varios de los sectores en que se dividió la ciudad de Tejada durante la prospección.
 
-* [Ver mosaico de tejada]({{<ref "/mosaico-tejada">}})
+### Mosaico de Tejada
+![](mosaico.jpeg)
 
-## Acueducto de Ituci - Italica
+
+Se trata de un pavimento de "Opus Tesellatum" polícromo, en el que se han empleado teselas de tamaño regular de un centímetro.
+
+Presenta una composición de motivos geométricos. Un tapiz bordeado por dos cenefas, una primera en ajedrezado de la que apenas quedan algunos restos, y una segunda de volutas enfrentadas en cuyo centro aparece un cuadrado apoyado en sus vértices, con diferente decoración en su interior dispuesta de forma alternativa. 
+
+El tapiz central presenta una composición de forma cuadrangular, empleando motivos vegetales y geométricos. 
+
+En el centro encontramos un florón de cuatro lóbulos, eje de toda la composición.
+
+ A su alrededor se distribuyen cuadrados y círculos alternándose unos con otros. 
+
+Los cuadrados formados por trenzas de dos cabos, en cuyo interior se inscribe otro cuadrado con un entrelazado de trenzas de tres cabos. 
+
+Los círculos formados igualmente por trenzas de dos cabos en los que encontramos inscritas ruedas de doce radios. 
+
+En los bordes medios, cráteras semejantes entre sí, a cuyos lados se disponen semicírculos radiados.
+
+Una trenza de doble cabo se distribuye alrededor de todo el borde.
+
+### Acueducto de Itvci - Italica
 J. Matute y Gaviria en su libro «Poco más abajo de Sanlúcar se le junta al río Maenoba, hoy Guadiamar, el río Harduchón, que nace del Alpizar, por cima de Tejada, y es donde se tomaban las aguas para Itálica. La comunicación y correspondencia que había entre este pueblo (Tejada) e Itálica y su vecindad, pudo dar motivo á demarcarle luego inmediatamente de Laelia [que Gallego cree es Tejada], porque además de la tradición que se tiene en esta tierra, se descubren aún hoy antiquísimos edificios, que aún no ha podido cita un manuscrito de 1624, del Lcdo. Matías Gallego de Vera, titulado Antigüedades de Sanlúcar la Mayor, en el que se dice: consumir el tiempo, y corren de un lugar a otro, que parecen unos mismos que los de Itálica, y de un mismo tiempo: y hoy duran lo que llaman lumbreras, y los arcos por donde iba a Itálica el agua que llenaba de las fuentes que había y duran en Tejada, al modo de los de Carmona por donde se llevan a Sevilla». En mayo de 1783 el erudito padre Zevallos, tan dedicado a los vestigios de la ciudad, recibió noticias sobre algunos restos del acueducto, y se desplazó hasta las fuentes de Tejada, siguiendo durante toda aquella jornada el recorrido del mismo. El relato de ese viaje, sumamente interesante para nosotros porque es el único que lo siguió completo y porque en su época vio mucho más de lo que queda hoy, lo recoge Matute también en su libro citado:
 
 > _«Las razones antecedentes me hacían dificultar cómo habían preferido las aguas de Tejada á las de la Sierra: para entenderlo mejor fui a reconocer los vestigios del Aqüeducto, que viene de Tejada, el 31 de Mayo de 1783. Me acompañó D. Diego del Corral, alcalde de la villa de Gerena, que me había hablado de aquellos sitios con mucho conocimiento, y se ofreció á mostrármelos. Fuimos desde Gerena hasta Tejada, notando muchos parages donde duran vestigios del Aqüeducto. Las fuentes de Tejada nacen en lo bajo de un valle que viene de Norte á Mediodía, donde estuvo aquélla antigua población. Luego que brotan las aguas, forman lagunas, que quieren ocultar su surgente... y desde ellas advertí los principios del Aqüeducto. Seguí por todo el día los muchos pedazos que restan de esta grande obra. Notamos las muchas veces que se ocultan bajo los cerros que se atraviesan en su viage, y los valles y parages bajos donde vuelven á aparecer pedazos de la misma fábrica. Entre estos puntos de terreno hay una relación clara, y no deja duda de que es de la misma obra el vestigio que se dejó á las espaldas de un cerro y los que vuélvense á descubrir á la caída del mismo cerro. En algunos sitios, como al pie del monasterio del Retamar, de monges basilios recoletos, es manifiesta la fábrica del Aqüeducto, que es de pilastras y arcos rebajados, sobre los cuales dura todavía el encañado de las aguas dirigiéndose hacia Itálica. Dura esto por un tramo muy largo, por lo más bajo de la Dehesa de las Dueñas: sigue su viage hacia la Pisana, durando la arcada hasta la orilla del río que corre al Oriente de dicho cortijo: la corriente del agua ha derribado algunos arcos, y la mitad del último que ha quedado está para caer dentro del mismo río. A la orilla oriental de éste no proseguía el Aqüeducto sobre arcos, sino sobre murallón sólido, que existe y no es muy alto: subí encima de él y vi el encañado, que conserva todavía el estuco que le dieron, cuando servía al curso de las aguas. No tiene media vara cabal en cuadro, y está descubierto al cielo y al aire. Este paredón sigue desapareciendo según que va subiendo el terreno, hasta que se pierde ó sume dentro de él, como le sucede en otros sitios antes y después. Ya aquí se nos acabó el día y no pudimos ir a buscar su salida de aquél terreno elevado._
@@ -90,9 +118,20 @@ Una última observación es que, al sur del cerro antes aludido, pudimos recorre
 
 ![](mapa.jpeg)
 
-[Ver _Las Monedas de Ituci_]({{<ref "/monedas-ituci">}})
+### Las Monedas de Itvci
+![](monedas_1.png) ![](monedas_2.png)
 
-## El sarcofago de Ituci
+Los tipos de monedas halladas en Tejada se pueden agrupar en cuatro o cinco fases de acuñación. El primero corresponde a ases y semis con un peso que se puede equiparar con el de los ases romanos acuñados a partir de ca. 206 a.C. y hasta mediados de siglo. Las restantes fases se emitieron con un patrón de peso mucho más ligero, de ca. 10-11 g (unidades, mitades y cuartos), que se aligeró en las sucesivas emisiones, hasta situarse en 8-8,5 g (_MIB_ 26/8-10). El tipo _ACIP_ 842 (= _CNH_ 108/4 = _DCPH_ II: 217, nº 2ª 4 = Sáez y Blanco 2001: I, 2a) con “escudo redondo adornado con una estrella” corresponde a monedas que en realidad son como ACIP 841 (= MIB 26/3), sobre cuyo escudo se ha aplicado cuidadosamente una contramarca con una estrella, con un punzón circular.
+
+La representación de un fruto de la tierra se repite en todas, en concreto una espiga de cereal. Sin embargo respecto a este tema, ciertos sectores de la investigación numismática tienen reservas a la hora de considerar estas representaciones como un indicador económico, viendo por el contrario en las mismas un elemento religioso. Así, las representaciones zoomorfas o vegetales son consideradas como encarnaciones de divinidades (caso del toro: Baal Hammon) o expresiones de una determinada divinidad (atunes o espigas); o como la expresión de una actividad económica determinada (atunes, espigas) sin negar por ello la hipótesis anterior en su conjunto. Ambas hipótesis interpretativas resultan válidas, ya que en el mundo antiguo el poder político- económico y religioso podía estar en manos del mismo grupo social cuando no en la misma persona (casos de la casta sacerdotal egipcia que controlaba prácticamente la economía del Estado, o de los emperadores romanos, que ostentaban también el título de Pontifex Maximus). El jinete con rodela ha sido relacionado con la caballería númida y se ha considerado como un testimonio de la presencia de mercenarios durante la ocupación bárcida.
+
+Las representaciones serían las siguientes: 
+
+* **Tipo púnico:** la espiga está presente en el reverso de las dos variantes que podemos encontrar dentro de este tipo, aquellas que en el anverso llevan un jinete con lanza y leyenda púnica y las que llevan un toro a la derecha y encima un sol de ocho rayos (éstos últimos considerados como símbolo astral-solar de algunas divinidades fenicio-púnicas. MORA SERRANO, 1993: 75). En ambos casos, la espiga del reverso se completa con leyenda púnica.
+* **Tipo bilingüe:** en este caso la espiga forma parte también del reverso de la única variedad que existe, esto es una moneda con valor de semis que presenta en el anverso un toro junto a un sol y la leyenda ITUCI.
+* **Tipo latino:** en el último tipo, la representación de espigas está presente en el reverso de las dos clases de monedas existentes, los ases y los semises. En los ases, en vez de una sola espiga, aparecen dos, completadas por un sol de ocho puntas que se sitúa entre ambas. En el caso de los semises de nuevo aparece una sola espiga, pero situada de forma horizontal y completada con la leyenda ITUCI debajo. 
+
+### El sarcofago de Itvci
 * **Materia/Soporte:** Plomo
 * **Técnica:** Fundición
 * **Dimensiones:** 34 x 182 x 48 cm
@@ -202,10 +241,3 @@ Inicialmente, Tejada parecía destinada a mantener su condición de centro comar
 * Jiménez Martín, Alfonso (1977). Arquitectura romana de la Baetica. Introducción al estudio de las fortificaciones, Segovia. (Symposium de Arqueología romana.); 238.
 * Ladero Quesada, Miguel Ángel y Manuel González Jiménez (1978). Diezmo eclesiástico y producción de cereales en el reino de Sevilla (1408-1503). Sevilla,  Universidad de Sevilla.
 * Rodríguez Babío, Amparo (2000). La cabecera de Tejada según el Repartimiento de Sevilla, Sevilla 1248. Congreso Internacional Conmemorativo del 750 Aniversario de la Conquista de la Ciudad de Sevilla por Fernando III, Rey de Castilla y León. Sevilla, Centro de Estudios Ramón Areces S.A.;  803-811.
-
-
-## Localizacion
-**Desde Escacena:** Tome la salida en dirección Aznalcóllar. Siga HU-6110 durante 5 km. Gire a la izquierda hacia la Vereda de Huévar.
-**Desde Aznalcóllar:** Tome la salida en dirección Escacena. Siga SE-4400 durante 10 km. Gire a la derecha hacia la Vereda de Huévar. 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d6335.05156656794!2d-6.366163!3d37.448306!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDI2JzUyLjIiTiA2wrAyMSc1Ny43Ilc!5e0!3m2!1ses!2sus!4v1681576154075!5m2!1ses!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

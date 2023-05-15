@@ -2,7 +2,7 @@
 title: Chichina
 slug: chichina
 image: cover.jpeg
-description: Plataforma Al Bassal te cuenta como la familia Ibn Zuar fue propietaria de esta finca castellanizada como 'Chichina Abenzoar' (parece ser un mozarabismo derivado de 'siccina', en el sentido de 'secano'), alquería- aldea junto a otra alquería cercana pero en la orilla oriental del Guadiamar, llamada Bury ibn Zuar, 'torre de los Ibn Zuar', conocida actualmente como Torre de Martín Cerón o de Guadiamar. 
+description: La familia Ibn Zuar fue propietaria de esta finca castellanizada como 'Chichina Abenzoar' (parece ser un mozarabismo derivado de 'siccina', en el sentido de 'secano'), alquería- aldea junto a otra alquería cercana pero en la orilla oriental del Guadiamar, llamada Bury ibn Zuar, 'torre de los Ibn Zuar', conocida actualmente como Torre de Martín Cerón o de Guadiamar. 
 toc: true
 date: 2023-04-05
 categories:
@@ -18,13 +18,15 @@ links:
   - title: Los enterramientos en cistas del cortijo de Chichina (Sanlúcar la Mayor, Sevilla)
     description: F. Fernández Gómez, D. Ruiz Mata y S. Sancha, 1976
     website: https://www.proquest.com/openview/05e8df2972a45eae2e18249cde464845/1?pq-origsite=gscholar&cbl=1817249
-  - title: Celtiberia
-    description: Lugar para el intercambio de conocimientos sobre prehistoria, protohistoria e historia antigua.
-    website: https://www.celtiberia.net/ 
   - title: Parte primera del Proyecto Olivares, Albaida del Aljarafe y Sanlúcar la Mayor
     description: Rafael Ignacio Rodríguez Moreno, 2018
     website: https://paseosporelamorylavida.com/2019/09/15/el-medio-las-vias-de-comunicacion-y-el-poblamiento-durante-la-prehistoria-reciente-protohistoria-antiguedad-y-edad-media-antecedentes-y-pervivencias-acercandonos-a-la-distribucion-etnica-de-los-a/
 ---
+
+## Localizacion
+Camino Chichina. Escacena del Campo- Sanlucar la Mayor
+<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d12672.778297092633!2d-6.307216!3d37.432508!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDI2JzAwLjciTiA2wrAxOCcyNi41Ilc!5e0!3m2!1ses!2sus!4v1681575852190!5m2!1ses!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 Con la expropiación a la población andalusí tras la conquista cristiana, estas haciendas se repartieron entre miembros de la familia real y personajes más o menos encumbrados a los cuales quiso distinguir el rey. No son muy numerosos y se refieren casi siempre a pequeños núcleos de población cuando no a plazas de frontera a menudo difícilmente defendibles. Algunos de esos señoríos fueron de obispalía. Así, por ejemplo, en 1253, Alfonso X otorgaba al obispo de Segovia don Remondo, futuro arzobispo de Sevilla, la Torre de Borgabenzoar, con 20 yugadas de heredad, 15 de ellas en Chichinat Abenzoar. 
 
@@ -122,7 +124,3 @@ Cista ovalada (1.62 x 0.92 cm), elaborada con 13 lajas de pizarra de medianas di
 >  En diciembre de 1974, D. Diego Puerta, propietario del cortijo ordenó igualar una zona de terreno cerca del Arroyo Molinillo con las colindantes para rellenar una depresion por la que corría el agua. Dicha elevación no llegaba en su parte más alta a un metro de desnivel en pendiente suave formando un montículo en el que crecía la vegetación espontánea.
 >
 > Tras la nivelación, los arados sacaron a la superficie lajas de pizarra de la Cista I, dándose parte urgente a las autoridades que iniciaron las tareas de excavación y documentación.
-
-## Localizacion
-Camino Chichina. Escacena del Campo- Sanlucar la Mayor
-<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d12672.778297092633!2d-6.307216!3d37.432508!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDI2JzAwLjciTiA2wrAxOCcyNi41Ilc!5e0!3m2!1ses!2sus!4v1681575852190!5m2!1ses!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
