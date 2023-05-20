@@ -57,6 +57,8 @@ Además, las piezas dentarias de las tumbas de Chichina muestran ausencia de car
 Las cerámicas aparecidas en el exterior de las tumbas proceden de varios fondos de cabañas muy arrasados, localizados en las inmediaciones de las cistas. 
 
 ### Cista I
+![](cista_1.jpeg)
+
 [Museo Arqueológico de Sevilla](http://ceres.mcu.es/pages/ResultSearch?txtSimpleSearch=Museo%20Arqueol%F3gico%20de%20Sevilla&simpleSearch=0&hipertextSearch=1&search=simple&MuseumsSearch=&MuseumsRolSearch=2&listaMuseos=null)
 
 Cista rectangular (1.25 x 0.60 cm), elaborada con 9 lajas de pizarra de distinto tamaño. Orientación Este-Oeste. Inhumación individual en posición fetal, con la cabeza y la mandíbula desplazadas. 
@@ -73,6 +75,8 @@ Incluye:
   * Este pequeño cuenco presenta unas características técnicas y formales muy semejantes al resto de los cuencos recuperados en Chichina. Se depositó bajo el cuello del difunto, asociado a una vasija globular de medianas dimensiones. Se trata de un ajuar habitual en los enterramientos del Bronce Pleno, similar a los documentados en otras sepulturas del mismo periodo como El Becerrero y El Castañuelo en Huelva.
 
 ### Cista II
+![](cista_2.jpeg)
+
 [Museo Arqueológico de Sevilla](http://ceres.mcu.es/pages/ResultSearch?txtSimpleSearch=Museo%20Arqueol%F3gico%20de%20Sevilla&simpleSearch=0&hipertextSearch=1&search=simple&MuseumsSearch=&MuseumsRolSearch=2&listaMuseos=null)
 
 Cista ovalada (1.65 x 1.05 cm), elaborada con 15 lajas de pizarra de dimensiones medias. Orientación Este-Oeste. Inhumación individual en posición fetal. Ajuar compuesto por:
@@ -87,6 +91,8 @@ Cista ovalada (1.65 x 1.05 cm), elaborada con 15 lajas de pizarra de dimensiones
   * Esta urna se localizó en el extremo oriental de la cista, más allá de los pies del difunto. Su forma se equipara a la serie de vasijas utilizadas como ofrenda funeraria en los enterramientos individuales del Bronce Pleno. Su hallazgo frecuente con cuencos de pequeñas dimensiones define un tipo de ajuar equiparable a las costumbres del resto de las comunidades del Bronce Pleno en Andalucía. Los ejemplos más cercanos se localizan en las necrópolis de cistas de El Becerrero y El Castañuelo en Huelva.
 
 ### Cista III
+![](cista_3.jpeg)
+
 [Museo Arqueológico de Sevilla](http://ceres.mcu.es/pages/ResultSearch?txtSimpleSearch=Museo%20Arqueol%F3gico%20de%20Sevilla&simpleSearch=0&hipertextSearch=1&search=simple&MuseumsSearch=&MuseumsRolSearch=2&listaMuseos=null)
 
 Cista rectangular (1.35 x 0.72 cm), elaborada con 9 lajas de pizarra de distinto tamaño. Orientación Oeste-este. Inhumación individual, en posición encogida.
