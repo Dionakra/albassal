@@ -14,6 +14,7 @@ keywords:
     - Al Bassal
     - Necropolis de Chichina
 ---
+
 # Reserva Visita guiada ordinaria Dólmenes de Berrocal
 * Visitas gratuitas.
 * Solo sábados y domingos a las 10:00.
@@ -31,3 +32,20 @@ keywords:
 * El correo de reserva debe contener: nombre completo del titular de la reserva, numero de visitantes, día solicitado.
 
 [Reserva enviandonos un mail.](mailto:plataformaalbassal@gmail.com)
+
+![](european-heritage-days-logo.jpeg) ![](european-heritage-days-poster.jpeg)
+
+# Reserva Visita teatralizada extraordinaria Dólmenes de Berrocal - Jornadas Europeas de Arqueología 2023
+* Visitas gratuitas.
+* Solo del 16 al 18 de Junio 2023.
+* Se incluye visita a los tres Dólmenes de la localidad.
+* El desplazamiento a cada uno de ellos se realizará en vehículo propio.
+* El correo de reserva debe contener: nombre completo del titular de la reserva, numero de visitantes, día solicitado.
+
+[Reserva enviandonos un mail.](mailto:plataformaalbassal@gmail.com)
+
+<video controls style="object-fit: fill;">
+    <source src="video.webm" type="video/webm">
+    </video>
+
+![](jornadas-europeas-arqueologia.jpeg)
