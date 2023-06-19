@@ -74,3 +74,17 @@ La Plataforma Al Bassal se integra en la [Plataforma en Defensa del Patrimonio A
 ![Chucena](inmatriculaciones-chucena.png)
 
 ![Castilleja del Campo](inmatriculaciones-castilleja.png)
+
+
+# "Antes del pueblo, ahora del Vaticano"
+![](antes-del-pueblo.jpeg)
+
+**Nueva campaña de la Coordinadora RECUPERANDO.**
+
+Con el titulo de "Antes del Pueblo, ahora del Vaticano, nuestra Coordinadora Estatal ha iniciado una nueva campaña de sensibilización y visibilidad del problema de las inmatriculaciones del patrimonio historico de nuestro pais.
+
+La campaña consiste en plasmar en las imágenes de estos idificacion emblemáticos las pegatinas reinvindicativa con el mencionado emblema.
+
+Nuestra plataforma no podía falta y ha elevado las imagenes de los templos históricos de nuestra comarca, exceptuando las viviendas particulares y fincas rusticas también inmatriculadas en nuestros pueblos.
+
+Puedes visitar la web https://www.recuperando.es/antes-del-pueblo-ahora-del-vaticano para conocer los monumentos más importantes inmatriculados en todo el territorio nacional.
