@@ -1,7 +1,7 @@
 ---
 title: Presentación - Plataforma Al Bassal
 slug: plataforma-al-bassal
-date: 2023-04-11
+date: 2023-10-08
 image: cover.png
 toc: false
 keywords: 

@@ -1,5 +1,5 @@
 ---
-title: El pino de Escacena
+title: El pino de Escacena. PATRIMONIO PERDIDO
 description: Polemica alrededor del "pino del convento", talado para sorpresa de los escaceneros.
 slug: el-pino-de-escacena
 image: cover.jpeg
