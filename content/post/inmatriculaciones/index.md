@@ -56,8 +56,8 @@ La Plataforma Al Bassal se integra en la [Plataforma en Defensa del Patrimonio A
 
 
 ### Pildoras informativas
-* [¿Qué es una inmatriculacion?]({{<ref "/que-es-una-inmatriculacion">}})
-* [Normativa en paises cercanos]({{<ref "/normativa-paises-cercanos">}})
+* [¿Qué es una inmatriculacion?]({{<ref "que-es-una-inmatriculacion">}})
+* [Normativa en paises cercanos]({{<ref "normativa-paises-cercanos">}})
 
 ![La Ermita de San Isidro, en Tejada la Nueva , fue inmatriculada a pesar de que se encuentra sobre vía pecuaria de titularidad pública.](ermita-san-isidro.jpeg)
 
