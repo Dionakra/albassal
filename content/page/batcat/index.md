@@ -1,5 +1,5 @@
 ---
-title: BatCat - Nuestro refugio
+title: Refugio BatCat
 image: cover.jpeg
 keywords:
     - BatCat
@@ -7,7 +7,7 @@ keywords:
     - Plataforma Al Bassal
 menu: 
     main:
-        name: BatCat - Nuestro refugio
+        name: Refugio BatCat
         weight: 60
         params:
             icon: batcat

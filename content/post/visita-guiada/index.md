@@ -3,6 +3,7 @@ title: Visita guiada
 slug: visita-guiada
 description: Descubre los Dólmenes de Berrocal con nuestras visitas guiadas gratuitas
 toc: false
+hidden: true
 date: 2023-04-04
 categories:
     - Patrimonio Cultural

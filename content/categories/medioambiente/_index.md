@@ -1,9 +1,9 @@
 ---
-title: "Medioambiente"
-slug: "medioambiente"
+title: "Patrimonio Natural"
+slug: "patrimonio-natural"
 menu: 
     main:
-        name: Medioambiente
+        name: Patrimonio Natural
         weight: 20
         params:
             icon: tree

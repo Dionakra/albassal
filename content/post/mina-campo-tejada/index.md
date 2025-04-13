@@ -5,10 +5,10 @@ slug: mina-campo-tejada
 date: 2023-09-01
 toc: false
 categories:
-    - Medioambiente
+    - Patrimonio Natural
 keywords: 
     - Plataforma Al Bassal
-    - Medioambiente
+    - Patrimonio Natural
     - Andalucia
     - Mina del Campo de Tejada
 ---

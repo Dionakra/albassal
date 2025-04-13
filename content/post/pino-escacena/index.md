@@ -6,10 +6,10 @@ image: cover.jpeg
 toc: false
 date: 2023-04-04
 categories:
-    - Medioambiente
+    - Patrimonio Natural
 keywords: 
     - Plataforma Al Bassal
-    - Medioambiente
+    - Patrimonio Natural
     - Andalucia
     - Araucaria
     - Al Bassal

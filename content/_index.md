@@ -1,7 +1,7 @@
 ---
 keywords: 
     - Plataforma Al Bassal
-    - Medioambiente
+    - Patrimonio Natural
     - Andalucia
     - Patrimonio Cultural
     - Al Bassal

@@ -1,5 +1,5 @@
 ---
-title: La Dólmenes de Berrocal
+title: Los Dólmenes de Berrocal
 slug: dolmenes-de-berrocal
 image: cover.jpeg
 description: En el término de Berrocal existe un valioso patrimonio megalítico en lo que a complejos dolménicos se refiere, como el del Puerto de los Huertos, el Casullo o el de Mascotejo, posteriores al proceso de expansión y monumentalización emprendido por los primeros pobladores de la zona.

@@ -6,10 +6,10 @@ image: cover.jpeg
 date: 2023-04-03
 toc: false
 categories:
-    - Medioambiente
+    - Patrimonio Natural
 keywords: 
     - Plataforma Al Bassal
-    - Medioambiente
+    - Patrimonio Natural
     - Andalucia
     - Sierra de Tejada
     - Al Bassal
